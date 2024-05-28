@@ -1,4 +1,4 @@
 # Website_Template
-- Idal website layout.
+- Ideal website layout.
 - Responsive website template.
 - Nav bar, Header, Grids, Footer.
